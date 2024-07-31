@@ -1,7 +1,7 @@
 {
   "jobs": [
     {
-      "id": 1,
+      "id": "1",
       "title": "Senior Vue Developer",
       "type": "Full-Time",
       "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as Vue or Angular.",
@@ -15,7 +15,7 @@
       }
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "Full Stack Developer",
       "type": "Full-Time",
       "description": "Join our dynamic team in San Francisco, CA, as a Full Stack Developer. You will be responsible for both front-end and back-end development, working with technologies like Node.js, React, and MongoDB.",
@@ -29,7 +29,7 @@
       }
     },
     {
-      "id": 3,
+      "id": "3",
       "title": "UI/UX Designer",
       "type": "Part-Time",
       "description": "We are looking for a creative UI/UX Designer to join our team in Austin, TX. The ideal candidate should have a strong portfolio showcasing design skills and experience in user research.",
@@ -43,7 +43,7 @@
       }
     },
     {
-      "id": 4,
+      "id": "4",
       "title": "Data Scientist",
       "type": "Full-Time",
       "description": "Join our analytics team in New York, NY, as a Data Scientist. You will analyze complex data sets to help drive strategic decisions and improve business outcomes.",
@@ -57,7 +57,7 @@
       }
     },
     {
-      "id": 5,
+      "id": "5",
       "title": "DevOps Engineer",
       "type": "Contract",
       "description": "We are seeking a skilled DevOps Engineer to join our team remotely. You will be responsible for automating and optimizing our deployment processes and infrastructure.",
@@ -71,7 +71,7 @@
       }
     },
     {
-      "id": 6,
+      "id": "6",
       "title": "Mobile App Developer",
       "type": "Full-Time",
       "description": "Join our team in Seattle, WA, as a Mobile App Developer. You will design and develop mobile applications for both iOS and Android platforms.",
