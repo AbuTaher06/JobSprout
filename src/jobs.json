@@ -1,0 +1,88 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Senior Vue Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as Vue or Angular.",
+      "location": "Boston, MA",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "contact@teksolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Full Stack Developer",
+      "type": "Full-Time",
+      "description": "Join our dynamic team in San Francisco, CA, as a Full Stack Developer. You will be responsible for both front-end and back-end development, working with technologies like Node.js, React, and MongoDB.",
+      "location": "San Francisco, CA",
+      "salary": "$90K - $110K",
+      "company": {
+        "name": "Tech Innovators",
+        "description": "Tech Innovators is a fast-growing startup focused on delivering cutting-edge software solutions. We value creativity and encourage our employees to think outside the box.",
+        "contactEmail": "info@techinnovators.com",
+        "contactPhone": "555-555-1234"
+      }
+    },
+    {
+      "id": 3,
+      "title": "UI/UX Designer",
+      "type": "Part-Time",
+      "description": "We are looking for a creative UI/UX Designer to join our team in Austin, TX. The ideal candidate should have a strong portfolio showcasing design skills and experience in user research.",
+      "location": "Austin, TX",
+      "salary": "$40K - $50K",
+      "company": {
+        "name": "Design Co.",
+        "description": "Design Co. is dedicated to creating user-friendly interfaces and experiences. We believe in the power of design to improve lives and enhance business outcomes.",
+        "contactEmail": "careers@designco.com",
+        "contactPhone": "555-555-6789"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Data Scientist",
+      "type": "Full-Time",
+      "description": "Join our analytics team in New York, NY, as a Data Scientist. You will analyze complex data sets to help drive strategic decisions and improve business outcomes.",
+      "location": "New York, NY",
+      "salary": "$100K - $120K",
+      "company": {
+        "name": "Data Insights",
+        "description": "Data Insights is a leading analytics firm that helps businesses leverage data for better decision-making. We are committed to fostering a culture of innovation.",
+        "contactEmail": "jobs@datainsights.com",
+        "contactPhone": "555-555-9876"
+      }
+    },
+    {
+      "id": 5,
+      "title": "DevOps Engineer",
+      "type": "Contract",
+      "description": "We are seeking a skilled DevOps Engineer to join our team remotely. You will be responsible for automating and optimizing our deployment processes and infrastructure.",
+      "location": "Remote",
+      "salary": "$80K - $100K",
+      "company": {
+        "name": "Cloud Solutions",
+        "description": "Cloud Solutions specializes in cloud computing and DevOps services. We pride ourselves on our innovative approaches and our commitment to client satisfaction.",
+        "contactEmail": "hr@cloudsolutions.com",
+        "contactPhone": "555-555-4321"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Mobile App Developer",
+      "type": "Full-Time",
+      "description": "Join our team in Seattle, WA, as a Mobile App Developer. You will design and develop mobile applications for both iOS and Android platforms.",
+      "location": "Seattle, WA",
+      "salary": "$85K - $95K",
+      "company": {
+        "name": "App Creators",
+        "description": "App Creators is a leading mobile app development company. We focus on creating high-quality applications that enhance user experiences and meet client needs.",
+        "contactEmail": "jobs@appcreators.com",
+        "contactPhone": "555-555-3210"
+      }
+    }
+  ]
+}
